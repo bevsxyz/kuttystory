@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kutty Story</title>
+        <link>/</link>
+        <description>A science outreach effort</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml" /><item>
+    <title>Lock-Down Relaxation</title>
+    <link>/2020/05/lock-down-relaxation/</link>
+    <pubDate>Tue, 05 May 2020 21:29:01 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>/2020/05/lock-down-relaxation/</guid>
+    <description><![CDATA[<p>An analogy to the current COVID-19 lockdown-relaxations around the world</p>]]></description>
+</item></channel>
+</rss>

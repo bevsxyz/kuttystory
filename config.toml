@@ -12,6 +12,8 @@ enableRobotsTXT = true
 
 enableEmoji = true
 
+publishDir = "../gh-pages"
+
 # Language parameters
 [languages]
   [languages.en]
